@@ -13,6 +13,7 @@ An SDN built the hard way. No pre-built virtual switches. Raw sockets, packet pa
 ## Docs
 
 - [Design Overview](docs/design.md) — architecture, lore, packet flow, dependency graph
+- [Class Design](docs/class-design.md) — kindling, ember, grace
 - More to come as the journey progresses
 
 ## Tech
